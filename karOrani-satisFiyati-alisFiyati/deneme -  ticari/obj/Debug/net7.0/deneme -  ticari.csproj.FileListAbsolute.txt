@@ -1,0 +1,30 @@
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.exe
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.deps.json
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.pdb
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\refint\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.pdb
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\ref\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.exe
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.deps.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.runtimeconfig.json
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\bin\Debug\net7.0\deneme -  ticari.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.csproj.AssemblyReference.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.AssemblyInfoInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.AssemblyInfo.cs
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.csproj.CoreCompileInputs.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\refint\deneme -  ticari.dll
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.pdb
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\deneme -  ticari.genruntimeconfig.cache
+C:\Users\busin\OneDrive\Masaüstü\Main DEV\Frontend\c# denemeleri\deneme -  ticari\deneme -  ticari\obj\Debug\net7.0\ref\deneme -  ticari.dll
